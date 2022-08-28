@@ -16,7 +16,7 @@ Birthday gift to my one and only lovely sister.
 This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/hbd_mbaisi/blob/main/LICENSE).           
 
 ## Resources
-- [YouTube](#)          
+- [scss 2 css using sass compiler](https://www.youtube.com/watch?v=DvqDO_EiQ6M)          
 - [Image source](#)          
 - [Image Download Link](#)          
 - [StackOverflow](#)          
