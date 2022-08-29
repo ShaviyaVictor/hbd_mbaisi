@@ -1,7 +1,7 @@
 # hbd_mbaisi
 Birthday gift to my one and only lovely sister.
           
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/hbd_mbaisi/blob/main/assets/images/hbd_mbaisi.jpeg" width="600" height="350" alt="">             
 
 ## Built With
 
