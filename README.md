@@ -17,14 +17,14 @@ This project is licensed under the [MIT License](https://github.com/ShaviyaVicto
 
 ## Resources
 - [scss 2 css using sass compiler](https://www.youtube.com/watch?v=DvqDO_EiQ6M)          
-- [Image source](#)          
+- [code_pen_PIN](https://codepen.io/emoreno911/pen/veBjbw)          
 - [Image Download Link](#)          
 - [StackOverflow](#)          
 
 
 ## Acknowledgments
 
-* @shaviyavictor
+* __@shaviyavictor__
 
 ### Author
 
