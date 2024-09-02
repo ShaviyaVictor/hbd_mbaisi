@@ -305,7 +305,7 @@ function reveal() {
 
 	// Add the Video Url here...
   var ifrm = document.createElement("iframe");
-        ifrm.setAttribute("src", "https://drive.google.com/file/d/1KODPtMjw739IYDeAEA9dB2C5z5LpFIV0/view?usp=sharing");
+        ifrm.setAttribute("src", "https://github.com/ShaviyaVictor/hbd_mbaisi/blob/main/assets/images/20230806_173242.jpg");
         //ifrm.style.width = `${w}px`;
         //ifrm.style.height = `${h}px`;https://www.youtube.com/watch?v=TL617Xnm7tI
         ifrm.style.border = 'none';
